@@ -1,0 +1,8 @@
+body {
+  font-family: sans-serif;
+}
+
+.page-numbers {
+  margin: 10px;
+  cursor: pointer;
+}
